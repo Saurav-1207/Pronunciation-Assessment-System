@@ -1,5 +1,4 @@
-
-![alt text]((https://github.com/Saurav-1207/Pronunciation-Assessment-System/blob/25c04377f7818438f240a49131603a9f2afb8396/Capture.PNG))
+![alt text](https://github.com/Saurav-1207/Pronunciation-Assessment-System/blob/25c04377f7818438f240a49131603a9f2afb8396/Capture.PNG)
 # Pronunciation Assessment System
 
 This project is a real-time pronunciation assessment tool that evaluates spoken words or sentences and provides feedback on their correctness. By leveraging **Speech Recognition**, **Natural Language Processing**, and **Text-to-Speech** technologies, this system offers real-time feedback on pronunciation, helping users improve their speaking skills.
