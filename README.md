@@ -65,7 +65,7 @@ The **Pronunciation Assessment System** allows users to assess their pronunciati
 
 3. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/pronunciation-assessment-system.git
+   git clone https://github.com/Saurav-1207/pronunciation-assessment-system.git
    ```
 
 4. **Install Required Packages**:
