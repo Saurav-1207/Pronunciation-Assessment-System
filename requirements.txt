@@ -1,0 +1,12 @@
+streamlit==1.23.0
+torchaudio==0.10.0
+transformers==4.10.0
+pydub==0.25.1
+sounddevice==0.4.2
+wavio==0.0.4
+torch==1.10.0
+g2p-en==2.1.0
+gtts==2.2.3
+difflib==3.10.0
+eng-to-ipa==0.3.3
+syllapy==0.7.0
